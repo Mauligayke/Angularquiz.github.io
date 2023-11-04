@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "SignUpUsers": [
+    {
+      "FullName": "Gayke Mauli Vishnu",
+      "DOB": "1996-04-01",
+      "Contact": 9421337114,
+      "Email": "mauligayke96@gmail.com",
+      "Password": "Mauli@123",
+      "id": 1
+    },
+    {
+      "FullName": "Gayke Mauli Vishnu",
+      "DOB": "1996-02-01",
+      "Contact": 9421337114,
+      "Email": "mauligayke96@gmail.com",
+      "Password": "Mauli@123",
+      "id": 2
+    },
+    {
+      "FullName": "Lahu Dawale",
+      "DOB": "1996-02-14",
+      "Contact": 7218767286,
+      "Email": "lahu12@gmail.com",
+      "Password": "Lahu@123",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
